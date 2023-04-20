@@ -1,0 +1,15 @@
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\bin\Debug\net7.0\calificaciones.exe
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\bin\Debug\net7.0\calificaciones.deps.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\bin\Debug\net7.0\calificaciones.runtimeconfig.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\bin\Debug\net7.0\calificaciones.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\bin\Debug\net7.0\calificaciones.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\obj\Debug\net7.0\calificaciones.csproj.AssemblyReference.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\obj\Debug\net7.0\calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\obj\Debug\net7.0\calificaciones.AssemblyInfoInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\obj\Debug\net7.0\calificaciones.AssemblyInfo.cs
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\obj\Debug\net7.0\calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\obj\Debug\net7.0\calificaciones.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\obj\Debug\net7.0\refint\calificaciones.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\obj\Debug\net7.0\calificaciones.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\obj\Debug\net7.0\calificaciones.genruntimeconfig.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\practica-3\ejercicios-propuestos\ejercicio-1\calificaciones\obj\Debug\net7.0\ref\calificaciones.dll
